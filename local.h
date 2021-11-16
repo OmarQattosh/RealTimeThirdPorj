@@ -27,9 +27,9 @@ struct attributes
     int min_step;
     int max_step;
     int num_steps;
-    int thread_ID[10][11];
+    int thread_ID[10];
     int num_laptops;
-    int line;
+    
     int i;
 };
 
